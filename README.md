@@ -102,26 +102,50 @@
 ------
 
 1. [conscheme](https://github.com/weinholt/conscheme): Scheme implementation in Golang
+
 2. [scheme_x86](https://github.com/mrnugget/scheme_x86): Writing a Scheme to x86 compiler by following Abdulaziz Ghuloum's "An Incremental Approach to Compiler Construction" 
+
 3. [layer](https://github.com/cloudkj/layer): Neural network inference the Unix way 
+
 4. [scheme-to-llvm](https://github.com/akeep): A compiler to compile a simple subset of scheme to LLVM 10 
+
 5. [duck-editor](https://github.com/evilbinary): 基于scheme开发的鸭子编辑器
+
 6. [Darkart](https://github.com/guenchi/Darkart): A binary interface let Chez Scheme use Python, Lua, Ruby etc's library 
+
 7. [Schemings](https://github.com/Mathieu-Desrochers/Schemings): You dig Scheme. The world is coded in C. You get both 
+
 8. [schism](https://github.com/google/schism): A self-hosting Scheme to WebAssembly compiler 
+
 9. [Raven](https://github.com/guenchi/Raven): Raven is a Package Manager for Chez Scheme 
+
 10. [Barliman](https://github.com/webyrd/Barliman): Prototype smart text editor 
+
 11. [scheme-lib](https://github.com/evilbinary/scheme-lib): duck lib scheme for gui gles gl slib openal socket web mongodb box2d game glfw mysql libevent libuv uv json http client server android osx linux chezscheme scheme-lib   
+
 12. [fibers](https://github.com/wingo/fibers): Concurrent ML-like concurrency for Guile 
+
 13. [ChezScheme](https://github.com/cisco/ChezScheme): Chez Scheme
+
 14. [gerbil](https://github.com/vyzo/gerbil): Gerbil Scheme 
+
 15. [ekho](https://github.com/hgneng/ekho): Chinese text-to-speech engine    
+
 16. [nanopass-framework-scheme](https://github.com/nanopass?type=source): The new nanopass framework; an embedded DSL for writing compilers in Scheme 
+
 17. [sicm](https://github.com/hnarayanan/sicm): Working through Structure and Interpretation of Classical Mechanics   
+
 18. [spheres](https://github.com/alvatar/spheres): A set of tools and libraries for practical Scheme. Multiplatform and Mobile 
+
 19. [picrin](https://github.com/picrin-scheme/picrin): lightweight scheme interpreter   
+
 20. [pencog](https://github.com/opencog/opencog): A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI) 
+
 21. [lambdanative](https://github.com/part-cw?type=source): LambdaNative is a cross-platform development environment written in Scheme, supporting Android, iOS, BlackBerry 10, OS X, Linux, Windows, OpenBSD, NetBSD, FreeBSD and OpenWrt   
+
 22. [Gauche](https://github.com/shirok/Gauche): Scheme Scripting Engine  
+
 23. [miniKanren](https://github.com/miniKanren): Canonical miniKanren implementation     
+
 24. [uim](https://github.com/uim/uim): A multilingual input method framework   
+
