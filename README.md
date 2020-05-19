@@ -131,7 +131,7 @@
 
 15. [ekho](https://github.com/hgneng/ekho): Chinese text-to-speech engine    
 
-16. [nanopass-framework-scheme](https://github.com/nanopass?type=source): The new nanopass framework; an embedded DSL for writing compilers in Scheme 
+16. [nanopass-framework-scheme](https://github.com/nanopass/nanopass-framework-scheme): The new nanopass framework; an embedded DSL for writing compilers in Scheme 
 
 17. [sicm](https://github.com/hnarayanan/sicm): Working through Structure and Interpretation of Classical Mechanics   
 
@@ -141,7 +141,7 @@
 
 20. [pencog](https://github.com/opencog/opencog): A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI) 
 
-21. [lambdanative](https://github.com/part-cw?type=source): LambdaNative is a cross-platform development environment written in Scheme, supporting Android, iOS, BlackBerry 10, OS X, Linux, Windows, OpenBSD, NetBSD, FreeBSD and OpenWrt   
+21. [lambdanative](https://github.com/part-cw/lambdanative): LambdaNative is a cross-platform development environment written in Scheme, supporting Android, iOS, BlackBerry 10, OS X, Linux, Windows, OpenBSD, NetBSD, FreeBSD and OpenWrt   
 
 22. [Gauche](https://github.com/shirok/Gauche): Scheme Scripting Engine  
 
