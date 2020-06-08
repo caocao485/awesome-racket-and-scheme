@@ -60,6 +60,78 @@
 55. [cover](https://github.com/florence/cover): a code coverage tool for racket
 56. [sxml](https://github.com/jbclements/sxml): Oleg Kiselyov's sxml/ssax/sxpath/sxslt libraries (racket-specific)
 
+### Platform
+
+1. [rackona](https://github.com/cky/rackona): A Racket→JVM FFI
+2. [zordoz](https://github.com/bennn/zordoz): Manipulating racket bytecode 
+3. [abstract-racket](https://github.com/akeep/abstract-racket): An abstract machine for analyzing Racket bytecode.
+4. [dalvik-abstract-interpreter](https://github.com/philomates/dalvik-abstract-interpreter): a abstract dalvik bytecode interpreter
+5. [extra-gc](https://github.com/gwatt/extra-gc): Extensible garbage collection for Chez Scheme
+6. [Caper](https://github.com/aturon/Caper): concurrent and parallel extensions to Racket
+7. [script-fu-save-android-icons](https://github.com/ruleant/script-fu-save-android-icons)： Gimp script to create Android icons for different screen sizes and resolutions.
+8. 
+
+###  Languages
+
+1. [sham](https://github.com/rjnw/sham): A DSL for runtime code generation in racket
+2. [racketscript](https://github.com/vishesh/racketscript): Racket to JavaScript Compiler
+3. [syndicate](https://github.com/tonyg/syndicate): syn·di·cate: a language for interactive programs
+4. [identikon](https://github.com/DarrenN/identikon): Racket scripts for generating identicons
+5. [typed-racket](https://github.com/racket/typed-racket): 
+
+
+
+### Networks/web
+
+1. [warp](https://github.com/david-vanderson/warp): coop networked game in Racket
+2. [racket-packet-socket](https://github.com/tonyg/racket-packet-socket): Access to raw Ethernet frames from Racket 
+3. [racket-net2](https://github.com/jackfirth/racket-net2): The networking library that Racketeers deserve
+4. [aws-lambda-racket](https://github.com/kpiljoong/aws-lambda-racket): Racket runtime for AWS Lambda
+5. [koyo](https://github.com/Bogdanp/koyo): A web development toolkit for Racket.
+
+### Machine Learning
+
+1. [racket-ml](https://github.com/danking/racket-ml): A collection of things I found useful for doing Machine Learning problem sets.
+
+2. [racket-knn](https://github.com/asbaker/racket-knn): K Nearest Neighbors, KNN, is a lazy, supervised machine learning algorithm. This is an implementation in scheme using racket. 
+
+3. [rml-core](https://github.com/johnstonskj/rml-core): Racket Machine Learning 
+
+### Data science
+
+1. [data-science](https://github.com/n3mo/data-science)：Data science tooling for Racket 
+
+### Documentation
+
+1. [racket-book](https://github.com/tyrchen/racket-book): My racket study documentation
+2. 
+
+### Tools/lib
+
+1. [bib2sx](https://github.com/mattmight/bib2sx): A tool for manipulating bibtex files as s-expressions
+2. [cover](https://github.com/florence/cover) : a code coverage tool for racket
+3. [racket-simple-xlsx](https://github.com/simmone/racket-simple-xlsx): a Open Xml Spreadsheet Format(.xlsx) file tool for racket-lang
+4. [slideshow-simple](https://github.com/apg/slideshow-simple) : Easier slideshows using Racket's slideshow tool
+5. [ina](https://github.com/gregr/ina): experimental computational medium and supporting tools
+6. [rash](https://github.com/cesquivias/rash): A *nix shell written in Racket
+7. [racket-reloadable](https://github.com/tonyg/racket-reloadable): Support for code-reloading for long-running racket programs (such as web-servers).
+8. [rodo](https://github.com/m455/rodo): A todo-list program for the command line.
+9. [kodictl](https://github.com/vdloo/kodictl): Control Kodi from the command-line
+10. [rwind](https://github.com/Metaxal/rwind): Window manager in the Racket programming language
+11. [terminal-color](https://github.com/hopkinsr/terminal-color) : A Racket library to output colored text to the terminal on any platform, including Windows
+12. [marketplace](https://github.com/tonyg/marketplace)： From Functional I/O to Functional Systems Programming.
+13. [lens](https://github.com/jackfirth/lens)：A Racket package for creating and composing pure functional lenses
+14. [functional](https://github.com/lexi-lambda/functional)： Functional interfaces and datatypes for Racket
+15. [racket-review](https://github.com/Bogdanp/racket-review)： A linter for Racket.
+16. [acket-cas](https://github.com/soegaard/racket-cas): Simple computer algebra system
+17. [Cassius](https://github.com/uwplse/Cassius): A CSS specification and reasoning engine
+
+
+
+
+
+
+
 ## Scheme
 
 ------
@@ -93,6 +165,25 @@
 27. [scheme-to-c](https://github.com/akeep/scheme-to-c): A small nanopass compiler from a subset of Scheme to C. (Developed for Clojure Conj 2013)
 28. [akku](https://github.com/weinholt/akku): Language package manager for Scheme. 
 29. [hop](https://github.com/manuel-serrano/hop): Multitier JavaScript
+30. [learners](https://github.com/roderyc/learners): Machine learning algorithms written in scheme
+31. [HTM-scheme](https://github.com/rogerturner/HTM-scheme): Hierarchical Temporal Memory in Scheme: some algorithms and experiments from numenta/htmresearch translated to Scheme
+32. [pink](https://github.com/namin/pink): Collapsing Towers of Interpreters (in Scheme)
+33. [metamk](https://github.com/namin/metamk): Meta-Interpreters in miniKanren
+34. [pink](https://github.com/namin/pink): Collapsing Towers of Interpreters (in Scheme)
+35. [ChezJS](https://github.com/guenchi/ChezJS): Compile JavaScript to Native Code
+36. [chicken-nrepl](https://github.com/kristianlm/chicken-nrepl)： Networked REPL over TCP for Chicken Scheme
+37. [ xiphos](https://github.com/crosswire/xiphos)： Xiphos is a Bible study tool written for Linux, UNIX, and Windows using GTK, offering a rich and featureful environment for reading, study, and research using modules from The SWORD Project and elsewhere
+38. [Scheme-Power-Tools](https://github.com/mpacula/Scheme-Power-Tools)：An assorted collection of Scheme utilities. Implements native monads, pattern matching, generic operator dispatch, serialization, event handling, memoization, suffix trees, among other things. It started as an attempt to add functionalities I missed from other languages such as Haskell, and eventually grew into a larger library
+39. [ydiff](https://github.com/bartuer/ydiff)： a language-aware tool for comparing programs
+40. [awful](https://github.com/mario-goulart/awful): awful provides an application and an extension to ease the development of web-based applications in CHICKEN Scheme
+41. [webmk](https://github.com/webyrd/webmk): miniKanren for interactive tutorials on the web
+42. [tvsm](https://github.com/TonCherAmi/tvsm): A simple command-line TV show manager.
+43. [irken-compiler](https://github.com/samrushing/irken-compiler)： Irken is a statically typed variant of Scheme. Or a lisp-like variant of ML.
+44. [pfds](https://github.com/ijp/pfds)： functional data structures for scheme
+45. [r6lint](https://github.com/weinholt/r6lint): R6RS Scheme syntax and style checker
+46. [massmine](https://github.com/n3mo/massmine): Your Access To Data
+47. [Carrot](https://github.com/ympbyc/Carrot): Purely functional lisp featuring: default currying, left-associative s-expression, lazy evaluation, static type system, and statically determined multimethods.
+48. [single_cream](https://github.com/rain-1/single_cream): single file scheme interpreter with tail call optimization
 
 ## Clojure
 
