@@ -9,12 +9,12 @@
 4. [markdown](https://github.com/greghendershott/markdown): Markdown parser written in Racket.
 5. [fear-of-macros](https://github.com/greghendershott/fear-of-macros): A practical guide to Racket macros
 6. [rackjure](https://github.com/greghendershott/rackjure): Provide a few Clojure-inspired ideas in Racket. Where Racket and Clojure conflict, prefer Racket.
-7. [frog](https://github.com/greghendershott/frog): Frog is a static blog generator implemented in Racket, targeting Bootstrap and able to use Pygments
+7. 
 8. [2048](https://github.com/danprager/racket-2048): The 2048 game implemented in Racket language 
 9. [earthgen](https://github.com/vraid/earthgen): an earth-like planet generator 
 10. [herbie](https://github.com/uwplse/herbie): Optimize floating-point expressions for accuracy 
 11. [pollen](https://github.com/mbutterick/pollen): book-publishing system in Racket 
-12. [spin](https://github.com/dmac/spin): Write RESTful web apps in Racket.
+12. 
 13. [molis-hai](https://github.com/jbclements/molis-hai): Password Generation using Markov models, Huffman trees, and Charles Dickens
 14. [web-server](https://github.com/racket/web-server): Racket web-server
 15. [lens](https://github.com/jackfirth/lens): A Racket package for creating and composing pure functional lenses
@@ -31,7 +31,6 @@
 26. [compiler-course](https://github.com/seckcoder/course-compiler): Reference implementation for the Essentials of Compilation course     
 27. [racket-android](https://github.com/jeapostrophe/racket-android): deploying Racket on Android      
 28. [hackett](https://github.com/lexi-lambda/hackett): WIP implementation of a Haskell-like Lisp in Racket   
-29. [lsh](https://github.com/DexterLagan/lsh): A fully-featured lisp/scheme shell written in Racket  
 30. [mediKanren](https://github.com/webyrd/mediKanren): Proof-of-concept for reasoning over the SemMedDB knowledge base, using miniKanren + heuristics + indexing
 31. [Pyramid](https://github.com/MichaelBurge/pyramid-scheme): Pyramid is a language to create Ethereum smart contracts
 32. [pie](https://github.com/the-little-typer/pie): The Pie language, which accompanies The Little Typer by Friedman and Christiansen   
@@ -43,8 +42,8 @@
 38. [marionette](https://github.com/Bogdanp/marionette): A Racket library that lets you control Firefox via the Marionette Protocol.
 39. [deta](https://github.com/Bogdanp/deta): A database mapper for Racket.
 40. [rebellion](https://github.com/jackfirth/rebellion): A collection of core libraries for Racket 
-41. [nemea](https://github.com/Bogdanp/nemea): Privacy focused website analytics 
-42. [riposte](https://github.com/vicampo/riposte): Scripting language for testing JSON-based HTTP APIs
+41. 
+42. 
 43. [public-student-support-code](https://github.com/IUCompilerCourse/public-student-support-code): Public helper code for p423/p523 students 
 44. [data-frame](https://github.com/alex-hhh/data-frame): A data frame implementation for Racket  
 45. [files-viewer](https://github.com/MatrixForChange/files-viewer): A File Manager for DrRacket 
@@ -78,6 +77,7 @@
 3. [syndicate](https://github.com/tonyg/syndicate): syn·di·cate: a language for interactive programs
 4. [identikon](https://github.com/DarrenN/identikon): Racket scripts for generating identicons
 5. [typed-racket](https://github.com/racket/typed-racket): 
+6. [program-analysis-examples](https://github.com/kmicinski/program-analysis-examples): Notes for CIS 700 (Fall '19) at Syracuse U.
 
 
 
@@ -88,14 +88,20 @@
 3. [racket-net2](https://github.com/jackfirth/racket-net2): The networking library that Racketeers deserve
 4. [aws-lambda-racket](https://github.com/kpiljoong/aws-lambda-racket): Racket runtime for AWS Lambda
 5. [koyo](https://github.com/Bogdanp/koyo): A web development toolkit for Racket.
+6. [racket-request](https://github.com/jackfirth/racket-request): Package for simplifying HTTP requests and writing integration tests of REST-ful APIs in Racket
+7. [riposte](https://github.com/vicampo/riposte): Scripting language for testing JSON-based HTTP APIs
+8. [nemea](https://github.com/Bogdanp/nemea): Privacy focused website analytics 
+9. [frog](https://github.com/greghendershott/frog): Frog is a static blog generator implemented in Racket, targeting Bootstrap and able to use Pygments
+10. [blog](https://github.com/greghendershott/blog)：Source for a blog 
+11. [spin](https://github.com/dmac/spin): Write RESTful web apps in Racket.
 
 ### Machine Learning
 
 1. [racket-ml](https://github.com/danking/racket-ml): A collection of things I found useful for doing Machine Learning problem sets.
-
 2. [racket-knn](https://github.com/asbaker/racket-knn): K Nearest Neighbors, KNN, is a lazy, supervised machine learning algorithm. This is an implementation in scheme using racket. 
-
 3. [rml-core](https://github.com/johnstonskj/rml-core): Racket Machine Learning 
+4. [DeepRacket](https://github.com/charlescearl/DeepRacket)：A simple starting point for doing deep learning in Racket
+5. [layer](https://github.com/cloudkj/layer)： Neural network inference the Unix way
 
 ### Data science
 
@@ -104,7 +110,13 @@
 ### Documentation
 
 1. [racket-book](https://github.com/tyrchen/racket-book): My racket study documentation
-2. 
+
+### game
+
+1. [racket-roguelike](https://github.com/jpverkamp/racket-roguelike)： Code for a tutorial series on writing a Roguelike in Racket
+2. [Evolution](https://github.com/mfelleisen/Evolution)：an implementation of Evolution for a course on Sw Dev
+3. [get-bonus](https://github.com/get-bonus/get-bonus): an experimental video game development environment
+4. 
 
 ### Tools/lib
 
@@ -125,6 +137,21 @@
 15. [racket-review](https://github.com/Bogdanp/racket-review)： A linter for Racket.
 16. [acket-cas](https://github.com/soegaard/racket-cas): Simple computer algebra system
 17. [Cassius](https://github.com/uwplse/Cassius): A CSS specification and reasoning engine
+18. [MrEd-Designer](https://github.com/Metaxal/MrEd-Designer)： Easily design Racket GUI applications
+19. [overscan](https://github.com/mwunsch/overscan): A live coding environment for live streaming video
+20. [graph](https://github.com/stchang/graph): Generic graph library and algorithms for Racket.
+21. [bookcover](https://github.com/otherjoel/bookcover): A Racket #lang and module for making cover PDFs for printed things.
+22. [racket-rash](https://github.com/willghatch/racket-rash): The Reckless Racket Shell  
+23. [lsh](https://github.com/DexterLagan/lsh): A fully-featured lisp/scheme shell written in Racket  
+24. [scripty](https://github.com/lexi-lambda/scripty) : Distributable shell scripts with dependencies
+25. [git-slice](https://github.com/samth/git-slice): Slicing git repositories.
+26. [db](https://github.com/racket/db): Racket packages: "db", "db-doc", "db-lib", "db-test".
+27. [sql](https://github.com/rmculpepper/sql): Embedding of some of SQL into Racket
+28. [pi-nothing](https://github.com/tonyg/pi-nothing): i386, x86_64, ARMv7 assembler/linker; Nothing-like mid-level language; Linear-scan register allocator; Operating system for Raspberry Pi
+29. [remote-shell](https://github.com/racket/remote-shell)：
+30. [racket-mock](https://github.com/jackfirth/racket-mock): Mocking library for Racket
+31. [rackcheck](https://github.com/Bogdanp/rackcheck): A property-based testing library for Racket.
+32. [racketeer](https://github.com/miraleung/racketeer)： Continuous testing for DrRacket
 
 
 
@@ -184,6 +211,15 @@
 46. [massmine](https://github.com/n3mo/massmine): Your Access To Data
 47. [Carrot](https://github.com/ympbyc/Carrot): Purely functional lisp featuring: default currying, left-associative s-expression, lazy evaluation, static type system, and statically determined multimethods.
 48. [single_cream](https://github.com/rain-1/single_cream): single file scheme interpreter with tail call optimization
+49. [bintracker](https://github.com/bintracker/bintracker)：A hackable Chiptune Audio Workstation
+50. [dysvunctional-language](https://github.com/axch/dysvunctional-language): Running the code you want to write as fast as the code you have to write
+51. [scsh](https://github.com/scheme/scsh): A Unix shell embedded in scheme
+52. [zkeme80](https://github.com/siraben/zkeme80): An assembler and operating system for the TI-84+ written in Scheme, Forth and Z80 assembly.
+53. [s3](https://github.com/stamourv/s3)： A Scheme TCP/IP Stack Targeting Small Embedded Applications
+54. [chez-a-sync](https://github.com/ChrisVine/chez-a-sync)：Asynchronous event loop for chez scheme with await semantics
+55. [ggspec](https://github.com/yawaramin/ggspec)： A lightweight, functional-style unit testing framework for Guile/Scheme
+56. [guile-json](https://github.com/aconchillo/guile-json)： JSON module for Guile
+57. [json](https://github.com/guenchi/json)：a portable, powerful and pure functional JSON library for Scheme
 
 ## Clojure
 
