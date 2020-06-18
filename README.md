@@ -90,7 +90,6 @@
 
 1. [warp](https://github.com/david-vanderson/warp): coop networked game in Racket
 2. [racket-packet-socket](https://github.com/tonyg/racket-packet-socket): Access to raw Ethernet frames from Racket 
-3. [racket-net2](https://github.com/jackfirth/racket-net2): The networking library that Racketeers deserve
 4. [aws-lambda-racket](https://github.com/kpiljoong/aws-lambda-racket): Racket runtime for AWS Lambda
 5. [koyo](https://github.com/Bogdanp/koyo): A web development toolkit for Racket.
 6. [racket-request](https://github.com/jackfirth/racket-request): Package for simplifying HTTP requests and writing integration tests of REST-ful APIs in Racket
@@ -184,127 +183,67 @@
 
 ------
 
-1. [conscheme](https://github.com/weinholt/conscheme): Scheme implementation in Golang
-
-2. [scheme_x86](https://github.com/mrnugget/scheme_x86): Writing a Scheme to x86 compiler by following Abdulaziz Ghuloum's "An Incremental Approach to Compiler Construction" 
-
+1. [conscheme](https://github.com/weinholt/conscheme): Scheme implementation in Golang 
+2. [scheme_x86](https://github.com/mrnugget/scheme_x86): Writing a Scheme to x86 compiler by following Abdulaziz Ghuloum's "An Incremental Approach to Compiler Construction"  
 3. [layer](https://github.com/cloudkj/layer): Neural network inference the Unix way 
-
 4. [scheme-to-llvm](https://github.com/akeep): A compiler to compile a simple subset of scheme to LLVM 10 
-
 5. [duck-editor](https://github.com/evilbinary/duck-editor): 基于scheme开发的鸭子编辑器
-
 6. [Darkart](https://github.com/guenchi/Darkart): A binary interface let Chez Scheme use Python, Lua, Ruby etc's library 
-
 7. [Schemings](https://github.com/Mathieu-Desrochers/Schemings): You dig Scheme. The world is coded in C. You get both 
-
 8. [schism](https://github.com/google/schism): A self-hosting Scheme to WebAssembly compiler 
-
 9. [Raven](https://github.com/guenchi/Raven): Raven is a Package Manager for Chez Scheme 
-
 10. [Barliman](https://github.com/webyrd/Barliman): Prototype smart text editor 
-
 11. [scheme-lib](https://github.com/evilbinary/scheme-lib): duck lib scheme for gui gles gl slib openal socket web mongodb box2d game glfw mysql libevent libuv uv json http client server android osx linux chezscheme scheme-lib   
-
 12. [fibers](https://github.com/wingo/fibers): Concurrent ML-like concurrency for Guile 
-
 13. [ChezScheme](https://github.com/cisco/ChezScheme): Chez Scheme
-
 14. [gerbil](https://github.com/vyzo/gerbil): Gerbil Scheme 
-
 15. [ekho](https://github.com/hgneng/ekho): Chinese text-to-speech engine    
-
 16. [nanopass-framework-scheme](https://github.com/nanopass/nanopass-framework-scheme): The new nanopass framework; an embedded DSL for writing compilers in Scheme 
-
 17. [sicm](https://github.com/hnarayanan/sicm): Working through Structure and Interpretation of Classical Mechanics   
-
 18. [spheres](https://github.com/alvatar/spheres): A set of tools and libraries for practical Scheme. Multiplatform and Mobile 
-
 19. [picrin](https://github.com/picrin-scheme/picrin): lightweight scheme interpreter   
-
 20. [pencog](https://github.com/opencog/opencog): A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI) 
-
 21. [lambdanative](https://github.com/part-cw/lambdanative): LambdaNative is a cross-platform development environment written in Scheme, supporting Android, iOS, BlackBerry 10, OS X, Linux, Windows, OpenBSD, NetBSD, FreeBSD and OpenWrt   
-
 22. [Gauche](https://github.com/shirok/Gauche): Scheme Scripting Engine  
-
 23. [miniKanren](https://github.com/miniKanren): Canonical miniKanren implementation     
-
 24. [uim](https://github.com/uim/uim): A multilingual input method framework   
-
 25. [cyclone](https://github.com/justinethier/cyclone): A brand-new compiler that allows practical application development using R7RS Scheme
-
 26. [harlan](https://github.com/eholk/harlan): A language for GPU computing.
-
 27. [scheme-to-c](https://github.com/akeep/scheme-to-c): A small nanopass compiler from a subset of Scheme to C. (Developed for Clojure Conj 2013)
-
 28. [akku](https://github.com/weinholt/akku): Language package manager for Scheme. 
-
 29. [hop](https://github.com/manuel-serrano/hop): Multitier JavaScript
-
 30. [learners](https://github.com/roderyc/learners): Machine learning algorithms written in scheme
-
 31. [HTM-scheme](https://github.com/rogerturner/HTM-scheme): Hierarchical Temporal Memory in Scheme: some algorithms and experiments from numenta/htmresearch translated to Scheme
-
 32. [pink](https://github.com/namin/pink): Collapsing Towers of Interpreters (in Scheme)
-
 33. [metamk](https://github.com/namin/metamk): Meta-Interpreters in miniKanren
-
 34. [pink](https://github.com/namin/pink): Collapsing Towers of Interpreters (in Scheme)
-
 35. [ChezJS](https://github.com/guenchi/ChezJS): Compile JavaScript to Native Code
-
 36. [chicken-nrepl](https://github.com/kristianlm/chicken-nrepl)： Networked REPL over TCP for Chicken Scheme
-
 37. [ xiphos](https://github.com/crosswire/xiphos)： Xiphos is a Bible study tool written for Linux, UNIX, and Windows using GTK, offering a rich and featureful environment for reading, study, and research using modules from The SWORD Project and elsewhere
-
 38. [Scheme-Power-Tools](https://github.com/mpacula/Scheme-Power-Tools)：An assorted collection of Scheme utilities. Implements native monads, pattern matching, generic operator dispatch, serialization, event handling, memoization, suffix trees, among other things. It started as an attempt to add functionalities I missed from other languages such as Haskell, and eventually grew into a larger library
-
 39. [ydiff](https://github.com/bartuer/ydiff)： a language-aware tool for comparing programs
-
 40. [awful](https://github.com/mario-goulart/awful): awful provides an application and an extension to ease the development of web-based applications in CHICKEN Scheme
-
 41. [webmk](https://github.com/webyrd/webmk): miniKanren for interactive tutorials on the web
-
 42. [tvsm](https://github.com/TonCherAmi/tvsm): A simple command-line TV show manager.
-
 43. [irken-compiler](https://github.com/samrushing/irken-compiler)： Irken is a statically typed variant of Scheme. Or a lisp-like variant of ML.
-
-44. [pfds](https://github.com/ijp/pfds)： functional data structures for scheme
-
+44. [pfds](https://github.com/ijp/pfds)： functional data structures for scheme0
 45. [r6lint](https://github.com/weinholt/r6lint): R6RS Scheme syntax and style checker
-
 46. [massmine](https://github.com/n3mo/massmine): Your Access To Data
-
 47. [Carrot](https://github.com/ympbyc/Carrot): Purely functional lisp featuring: default currying, left-associative s-expression, lazy evaluation, static type system, and statically determined multimethods.
-
-48. [single_cream](https://github.com/rain-1/single_cream): single file scheme interpreter with tail call optimization
-
-49. [bintracker](https://github.com/bintracker/bintracker)：A hackable Chiptune Audio Workstation
-
-50. [dysvunctional-language](https://github.com/axch/dysvunctional-language): Running the code you want to write as fast as the code you have to write
-
-51. [scsh](https://github.com/scheme/scsh): A Unix shell embedded in scheme
-
-52. [zkeme80](https://github.com/siraben/zkeme80): An assembler and operating system for the TI-84+ written in Scheme, Forth and Z80 assembly.
-
-53. [s3](https://github.com/stamourv/s3)： A Scheme TCP/IP Stack Targeting Small Embedded Applications
-
-54. [chez-a-sync](https://github.com/ChrisVine/chez-a-sync)：Asynchronous event loop for chez scheme with await semantics
-
-55. [ggspec](https://github.com/yawaramin/ggspec)： A lightweight, functional-style unit testing framework for Guile/Scheme
-
-56. [guile-json](https://github.com/aconchillo/guile-json)： JSON module for Guile
-
-57. [json](https://github.com/guenchi/json)：a portable, powerful and pure functional JSON library for Scheme
-
-58. [black](https://github.com/readevalprintlove/black)：Kenichi Asai's reflective programming language Black
-
-59. [Liber](https://github.com/guenchi/Liber): Liber is a template parser for Scheme List to HTML
-
-60. [multischeme](https://github.com/ojarjur/multischeme): Compile-time multitasking support for the Scheme programming language
-
-61. # **[ pot](https://github.com/motersen/pot)**: organizes tags
+48. [single_cream](https://github.com/rain-1/single_cream): single file scheme interpreter with tail call optimization      
+49. [bintracker](https://github.com/bintracker/bintracker)：A hackable Chiptune Audio Workstation       
+50. [dysvunctional-language](https://github.com/axch/dysvunctional-language): Running the code you want to write as fast as the code you have to write    
+51. [scsh](https://github.com/scheme/scsh): A Unix shell embedded in scheme  
+52. [zkeme80](https://github.com/siraben/zkeme80): An assembler and operating system for the TI-84+ written in Scheme, Forth and Z80 assembly.    
+53. [s3](https://github.com/stamourv/s3)： A Scheme TCP/IP Stack Targeting Small Embedded Applications   
+54. [chez-a-sync](https://github.com/ChrisVine/chez-a-sync)：Asynchronous event loop for chez scheme with await semantics     
+55. [ggspec](https://github.com/yawaramin/ggspec)： A lightweight, functional-style unit testing framework for Guile/Scheme        
+56. [guile-json](https://github.com/aconchillo/guile-json)： JSON module for Guile      
+57. [json](https://github.com/guenchi/json)：a portable, powerful and pure functional JSON library for Scheme           
+58. [black](https://github.com/readevalprintlove/black)：Kenichi Asai's reflective programming language Black    
+59. [Liber](https://github.com/guenchi/Liber): Liber is a template parser for Scheme List to HTML       
+60. [multischeme](https://github.com/ojarjur/multischeme): Compile-time multitasking support for the Scheme programming language      
+61. [pot](https://github.com/motersen/pot): organizes tags
 
 ## Clojure
 
