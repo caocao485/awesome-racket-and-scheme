@@ -239,9 +239,3 @@
 59. [Liber](https://github.com/guenchi/Liber): Liber is a template parser for Scheme List to HTML       
 60. [multischeme](https://github.com/ojarjur/multischeme): Compile-time multitasking support for the Scheme programming language      
 61. [pot](https://github.com/motersen/pot): organizes tags
-
-## Clojure
-
-------
-
-1. 
