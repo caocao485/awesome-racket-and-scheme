@@ -9,12 +9,11 @@
 4. [markdown](https://github.com/greghendershott/markdown): Markdown parser written in Racket.
 5. [fear-of-macros](https://github.com/greghendershott/fear-of-macros): A practical guide to Racket macros
 6. [rackjure](https://github.com/greghendershott/rackjure): Provide a few Clojure-inspired ideas in Racket. Where Racket and Clojure conflict, prefer Racket.
-7. 
+7. [kodictl](https://github.com/vdloo/kodictl): Control Kodi from the command-line
 8. [2048](https://github.com/danprager/racket-2048): The 2048 game implemented in Racket language 
 9. [earthgen](https://github.com/vraid/earthgen): an earth-like planet generator 
 10. [herbie](https://github.com/uwplse/herbie): Optimize floating-point expressions for accuracy 
 11. [pollen](https://github.com/mbutterick/pollen): book-publishing system in Racket 
-12. 
 13. [molis-hai](https://github.com/jbclements/molis-hai): Password Generation using Markov models, Huffman trees, and Charles Dickens
 14. [web-server](https://github.com/racket/web-server): Racket web-server
 15. [lens](https://github.com/jackfirth/lens): A Racket package for creating and composing pure functional lenses
@@ -32,7 +31,6 @@
 27. [racket-android](https://github.com/jeapostrophe/racket-android): deploying Racket on Android      
 28. [hackett](https://github.com/lexi-lambda/hackett): WIP implementation of a Haskell-like Lisp in Racket   
 30. [mediKanren](https://github.com/webyrd/mediKanren): Proof-of-concept for reasoning over the SemMedDB knowledge base, using miniKanren + heuristics + indexing
-31. 
 32. [pie](https://github.com/the-little-typer/pie): The Pie language, which accompanies The Little Typer by Friedman and Christiansen   
 33. [racket-koans](https://github.com/zyrolasting/racket-koans):  Learn Racket by doing: Practice language features by fixing topic-oriented unit tests 
 34. [racket-algebraic](https://github.com/dedbox/racket-algebraic): Algebraic structures for untyped Racket
@@ -42,8 +40,6 @@
 38. [marionette](https://github.com/Bogdanp/marionette): A Racket library that lets you control Firefox via the Marionette Protocol.
 39. [deta](https://github.com/Bogdanp/deta): A database mapper for Racket.
 40. [rebellion](https://github.com/jackfirth/rebellion): A collection of core libraries for Racket 
-41. 
-42. 
 43. [public-student-support-code](https://github.com/IUCompilerCourse/public-student-support-code): Public helper code for p423/p523 students 
 44. [data-frame](https://github.com/alex-hhh/data-frame): A data frame implementation for Racket  
 45. [files-viewer](https://github.com/MatrixForChange/files-viewer): A File Manager for DrRacket 
@@ -53,7 +49,6 @@
 49. [brag](https://github.com/mbutterick/brag): Racket DSL for generating parsers from BNF grammars
 50. [fear-of-macros](https://github.com/greghendershott/fear-of-macros): A practical guide to Racket macros
 51. [herbie](https://github.com/uwplse/herbie): Optimize floating-point expressions for accuracy
-52. 
 53. [magic-racket](https://github.com/Eugleo/magic-racket): The best coding experience for Racket in VS Code
 54. [atreus](https://github.com/technomancy/atreus): column-staggered travel keyboard design
 55. [cover](https://github.com/florence/cover): a code coverage tool for racket
