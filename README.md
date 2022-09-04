@@ -1,7 +1,6 @@
 # awesome-racket-and-scheme
 ## Racket
 
-------
 
 1. [waxeye](https://github.com/waxeye-org/waxeye): a parser generator based on parsing expression grammars (PEGs). It supports C, Java, JavaScript, Python, Racket, and Ruby. 
 2. [exp](https://github.com/jeapostrophe/exp): Configuration files and experimental, one-off code
