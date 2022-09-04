@@ -175,7 +175,6 @@
 
 ## Scheme
 
-------
 
 1. [conscheme](https://github.com/weinholt/conscheme): Scheme implementation in Golang 
 2. [scheme_x86](https://github.com/mrnugget/scheme_x86): Writing a Scheme to x86 compiler by following Abdulaziz Ghuloum's "An Incremental Approach to Compiler Construction"  
