@@ -179,7 +179,7 @@
 1. [conscheme](https://github.com/weinholt/conscheme): Scheme implementation in Golang 
 2. [scheme_x86](https://github.com/mrnugget/scheme_x86): Writing a Scheme to x86 compiler by following Abdulaziz Ghuloum's "An Incremental Approach to Compiler Construction"  
 3. [layer](https://github.com/cloudkj/layer): Neural network inference the Unix way 
-4. [scheme-to-llvm](https://github.com/akeep): A compiler to compile a simple subset of scheme to LLVM 10 
+4. [scheme-to-llvm](https://github.com/akeep/scheme-to-llvm): A compiler to compile a simple subset of scheme to LLVM 10 
 5. [duck-editor](https://github.com/evilbinary/duck-editor): 基于scheme开发的鸭子编辑器
 6. [Darkart](https://github.com/guenchi/Darkart): A binary interface let Chez Scheme use Python, Lua, Ruby etc's library 
 7. [Schemings](https://github.com/Mathieu-Desrochers/Schemings): You dig Scheme. The world is coded in C. You get both 
