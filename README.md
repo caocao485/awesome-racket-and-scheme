@@ -1,4 +1,6 @@
 # awesome-racket-and-scheme
+
+> 收录规则：同一 GitHub URL 在 README 中仅出现一次；如有重复，保留描述更完整、分类更准确的一条。
 ## Racket
 
 
@@ -8,17 +10,14 @@
 4. [markdown](https://github.com/greghendershott/markdown): Markdown parser written in Racket.
 5. [fear-of-macros](https://github.com/greghendershott/fear-of-macros): A practical guide to Racket macros
 6. [rackjure](https://github.com/greghendershott/rackjure): Provide a few Clojure-inspired ideas in Racket. Where Racket and Clojure conflict, prefer Racket.
-7. [kodictl](https://github.com/vdloo/kodictl): Control Kodi from the command-line
 8. [2048](https://github.com/danprager/racket-2048): The 2048 game implemented in Racket language 
 9. [earthgen](https://github.com/vraid/earthgen): an earth-like planet generator 
 10. [herbie](https://github.com/uwplse/herbie): Optimize floating-point expressions for accuracy 
 11. [pollen](https://github.com/mbutterick/pollen): book-publishing system in Racket 
 13. [molis-hai](https://github.com/jbclements/molis-hai): Password Generation using Markov models, Huffman trees, and Charles Dickens
 14. [web-server](https://github.com/racket/web-server): Racket web-server
-15. [lens](https://github.com/jackfirth/lens): A Racket package for creating and composing pure functional lenses
 16. [rmacs](https://github.com/tonyg/rmacs): An EMACS written in Racket. Runs in ANSI-compatible terminals.
 17. [PyonR](https://github.com/pedropramos/PyonR): Python implementation for Racket    
-18. [racket-book](https://github.com/tyrchen/racket-book): My racket study documentation
 19. [rosette](https://github.com/emina/rosette): The Rosette solver-aided host language, sample solver-aided DSLs, and demos
 20. [debug](https://github.com/AlexKnauth/debug): a racket lang-extension for debugging, and a macro for inserting a debug-repl   
 21. [red-flag-of-fp](https://github.com/jarcane/red-flag-of-fp): The Red Flag of Functional Programming   
@@ -46,11 +45,8 @@
 47. [Racket-Stomp](https://github.com/tonyg/racket-stomp)：An implementation of the STOMP 1.1 protocol (client) for Racket
 48. [cur](https://github.com/wilbowma/cur): Powerful meta-programming for powerful types.
 49. [brag](https://github.com/mbutterick/brag): Racket DSL for generating parsers from BNF grammars
-50. [fear-of-macros](https://github.com/greghendershott/fear-of-macros): A practical guide to Racket macros
-51. [herbie](https://github.com/uwplse/herbie): Optimize floating-point expressions for accuracy
 53. [magic-racket](https://github.com/Eugleo/magic-racket): The best coding experience for Racket in VS Code
 54. [atreus](https://github.com/technomancy/atreus): column-staggered travel keyboard design
-55. [cover](https://github.com/florence/cover): a code coverage tool for racket
 56. [sxml](https://github.com/jbclements/sxml): Oleg Kiselyov's sxml/ssax/sxpath/sxslt libraries (racket-specific)
 
 ### Platform
@@ -101,7 +97,6 @@
 2. [racket-knn](https://github.com/asbaker/racket-knn): K Nearest Neighbors, KNN, is a lazy, supervised machine learning algorithm. This is an implementation in scheme using racket. 
 3. [rml-core](https://github.com/johnstonskj/rml-core): Racket Machine Learning 
 4. [DeepRacket](https://github.com/charlescearl/DeepRacket)：A simple starting point for doing deep learning in Racket
-5. [layer](https://github.com/cloudkj/layer)： Neural network inference the Unix way
 
 ### Data science
 
@@ -209,7 +204,6 @@
 31. [HTM-scheme](https://github.com/rogerturner/HTM-scheme): Hierarchical Temporal Memory in Scheme: some algorithms and experiments from numenta/htmresearch translated to Scheme
 32. [pink](https://github.com/namin/pink): Collapsing Towers of Interpreters (in Scheme)
 33. [metamk](https://github.com/namin/metamk): Meta-Interpreters in miniKanren
-34. [pink](https://github.com/namin/pink): Collapsing Towers of Interpreters (in Scheme)
 35. [ChezJS](https://github.com/guenchi/ChezJS): Compile JavaScript to Native Code
 36. [chicken-nrepl](https://github.com/kristianlm/chicken-nrepl)： Networked REPL over TCP for Chicken Scheme
 37. [ xiphos](https://github.com/crosswire/xiphos)： Xiphos is a Bible study tool written for Linux, UNIX, and Windows using GTK, offering a rich and featureful environment for reading, study, and research using modules from The SWORD Project and elsewhere
