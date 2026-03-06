@@ -46,8 +46,6 @@
 - [Racket-Stomp](https://github.com/tonyg/racket-stomp)：An implementation of the STOMP 1.1 protocol (client) for Racket
 - [cur](https://github.com/wilbowma/cur): Powerful meta-programming for powerful types.
 - [brag](https://github.com/mbutterick/brag): Racket DSL for generating parsers from BNF grammars
-- [fear-of-macros](https://github.com/greghendershott/fear-of-macros): A practical guide to Racket macros
-- [herbie](https://github.com/uwplse/herbie): Optimize floating-point expressions for accuracy
 - [magic-racket](https://github.com/Eugleo/magic-racket): The best coding experience for Racket in VS Code
 - [atreus](https://github.com/technomancy/atreus): column-staggered travel keyboard design
 - [cover](https://github.com/florence/cover): a code coverage tool for racket
@@ -109,7 +107,6 @@
 
 ### Documentation
 
-- [racket-book](https://github.com/tyrchen/racket-book): My racket study documentation
 - [quad](https://github.com/mbutterick/quad): document processor in Racket
 
 ### game
@@ -120,18 +117,15 @@
 - ### Tools/lib
 
 - [bib2sx](https://github.com/mattmight/bib2sx): A tool for manipulating bibtex files as s-expressions
-- [cover](https://github.com/florence/cover) : a code coverage tool for racket
 - [racket-simple-xlsx](https://github.com/simmone/racket-simple-xlsx): a Open Xml Spreadsheet Format(.xlsx) file tool for racket-lang
 - [slideshow-simple](https://github.com/apg/slideshow-simple) : Easier slideshows using Racket's slideshow tool
 - [ina](https://github.com/gregr/ina): experimental computational medium and supporting tools
 - [rash](https://github.com/cesquivias/rash): A *nix shell written in Racket
 - [racket-reloadable](https://github.com/tonyg/racket-reloadable): Support for code-reloading for long-running racket programs (such as web-servers).
 - [rodo](https://github.com/m455/rodo): A todo-list program for the command line.
-- [kodictl](https://github.com/vdloo/kodictl): Control Kodi from the command-line
 - [rwind](https://github.com/Metaxal/rwind): Window manager in the Racket programming language
 - [terminal-color](https://github.com/hopkinsr/terminal-color) : A Racket library to output colored text to the terminal on any platform, including Windows
 - [marketplace](https://github.com/tonyg/marketplace)： From Functional I/O to Functional Systems Programming.
-- [lens](https://github.com/jackfirth/lens)：A Racket package for creating and composing pure functional lenses
 - [functional](https://github.com/lexi-lambda/functional)： Functional interfaces and datatypes for Racket
 - [racket-review](https://github.com/Bogdanp/racket-review)： A linter for Racket.
 - [acket-cas](https://github.com/soegaard/racket-cas): Simple computer algebra system
@@ -176,7 +170,6 @@
 
 - [conscheme](https://github.com/weinholt/conscheme): Scheme implementation in Golang 
 - [scheme_x86](https://github.com/mrnugget/scheme_x86): Writing a Scheme to x86 compiler by following Abdulaziz Ghuloum's "An Incremental Approach to Compiler Construction"  
-- [layer](https://github.com/cloudkj/layer): Neural network inference the Unix way 
 - [scheme-to-llvm](https://github.com/akeep/scheme-to-llvm): A compiler to compile a simple subset of scheme to LLVM 10 
 - [duck-editor](https://github.com/evilbinary/duck-editor): 基于scheme开发的鸭子编辑器
 - [Darkart](https://github.com/guenchi/Darkart): A binary interface let Chez Scheme use Python, Lua, Ruby etc's library 
@@ -207,10 +200,9 @@
 - [HTM-scheme](https://github.com/rogerturner/HTM-scheme): Hierarchical Temporal Memory in Scheme: some algorithms and experiments from numenta/htmresearch translated to Scheme
 - [pink](https://github.com/namin/pink): Collapsing Towers of Interpreters (in Scheme)
 - [metamk](https://github.com/namin/metamk): Meta-Interpreters in miniKanren
-- [pink](https://github.com/namin/pink): Collapsing Towers of Interpreters (in Scheme)
 - [ChezJS](https://github.com/guenchi/ChezJS): Compile JavaScript to Native Code
 - [chicken-nrepl](https://github.com/kristianlm/chicken-nrepl)： Networked REPL over TCP for Chicken Scheme
-- [ xiphos](https://github.com/crosswire/xiphos)： Xiphos is a Bible study tool written for Linux, UNIX, and Windows using GTK, offering a rich and featureful environment for reading, study, and research using modules from The SWORD Project and elsewhere
+- [xiphos](https://github.com/crosswire/xiphos)： Xiphos is a Bible study tool written for Linux, UNIX, and Windows using GTK, offering a rich and featureful environment for reading, study, and research using modules from The SWORD Project and elsewhere
 - [Scheme-Power-Tools](https://github.com/mpacula/Scheme-Power-Tools)：An assorted collection of Scheme utilities. Implements native monads, pattern matching, generic operator dispatch, serialization, event handling, memoization, suffix trees, among other things. It started as an attempt to add functionalities I missed from other languages such as Haskell, and eventually grew into a larger library
 - [ydiff](https://github.com/bartuer/ydiff)： a language-aware tool for comparing programs
 - [awful](https://github.com/mario-goulart/awful): awful provides an application and an extension to ease the development of web-based applications in CHICKEN Scheme
@@ -239,3 +231,4 @@
 ## Contributing
 
 - 新增条目不手写连续数字。
+- 提交前可运行 `python scripts/check_readme_duplicates.py` 检查重复条目（按名称和仓库链接归一化判重）。
